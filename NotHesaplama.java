@@ -1,4 +1,3 @@
-package PatikaDevJava;
 import java.util.Scanner;
 
 /**
